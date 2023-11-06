@@ -34,5 +34,5 @@ Formulate conclusions to the displayed chart/graph. If applicable, recommendatio
 
 |                                          |  1- some vis | 2-Graph Grammary | 3-plotnine | 4-L4  | 5-? | 
 | ---------------------------------------- | --- | --- | --- | --- | --- | 
-| Soft Deadline (50% reduction if missed)  | 15.10.2023 (1 pts)| 19.10.2023 (1 pts) | 26.10.2023 (1 pts) | 03.12.2023 (1 pts) |  ToDo |
-| Hard Deadline (100% reduction if missed) | 22.10.2023 (0.5 pts) | 26.10.2023 (0.5 pts) | 03.12.2023 (0.5 pts) | 10.12.2023 (0.5 pts) |  ToDo |
+| Soft Deadline (50% reduction if missed)  | 15.10.2023 (1 pts)| 19.11.2023 (1 pts) | 26.11.2023 (1 pts) | 03.12.2023 (1 pts) |  ToDo |
+| Hard Deadline (100% reduction if missed) | 22.10.2023 (0.5 pts) | 26.11.2023 (0.5 pts) | 03.12.2023 (0.5 pts) | 10.12.2023 (0.5 pts) |  ToDo |
