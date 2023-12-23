@@ -36,3 +36,7 @@ Formulate conclusions to the displayed chart/graph. If applicable, recommendatio
 | ---------------------------------------- | --- | --- | --- | --- | --- | 
 | Soft Deadline (50% reduction if missed)  | 15.10.2023 (1 pts)| 19.11.2023 (1 pts) | 26.11.2023 (1 pts) | 03.12.2023 (1 pts) |  ToDo |
 | Hard Deadline (100% reduction if missed) | 22.10.2023 (0.5 pts) | 26.11.2023 (0.5 pts) | 03.12.2023 (0.5 pts) | 10.12.2023 (0.5 pts) |  ToDo |
+
+### Result table
+
+https://docs.google.com/spreadsheets/d/1qg-uNeS4BBRkc7K-WuTUZWQ7Rx2G9Kg3JkenCSeWO5w/edit?usp=sharing
